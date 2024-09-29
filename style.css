@@ -17,9 +17,9 @@ body {
 .container {
     background-color: #fff;
     padding: 30px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 350px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(155, 53, 53, 0.1);
+    width: 400px;
 }
 
 h2 {
@@ -66,5 +66,5 @@ textarea {
 }
 
 .submit-btn:hover {
-    background-color: #45a049;
+    background-color: #1b6f20;
 }
